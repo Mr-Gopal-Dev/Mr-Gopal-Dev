@@ -3,7 +3,7 @@
 <!--  -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full+Stack+Developer +%7C+Competitive+Programmer 🎓;AI+%2F+ML+%7C+Cloud+%7C+DevOps 🧑‍🎓;Tech+Meetups+%26+Conferences; Active+Learner/Researcher 🎯"; />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full+Stack+Developer +%7C+Competitive+Programmer;AI+%2F+ML+%7C+Cloud+%7C+DevOps;Tech+Meetups+%26+Conferences; Active+Learner/Researcher"; />
 </p>
 
 <img align="right" alt="Tejas Coding" width="350px" src="./illustration.png" />
