@@ -46,7 +46,7 @@
 <tr>
 <td>
 <p align="center">
-<img width="200px" src="https://skillicons.dev/icons?i=react,express,node,mongodb,dotnet,androidstudio&perline=3" />
+<img width="200px" src="https://skillicons.dev/icons?i=react,express,dotnet,androidstudio&perline=3" />
 </p>
 </td>
 <!--   dlf -->
