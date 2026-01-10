@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full+Stack+Developer+%7C+Competitive+Programmer;AI+%2F+ML+%7C+Cloud+%7C+DevOps;Tech+Meetups+%26+Conferences"/>
 </p>
 
-<img align="right" alt="Tejas Coding" width="350px" src="./illustration.png" />
+<img align="right" alt="Gopal Samy" width="350px" src="./illustration.png" />
 
 ### 👨‍💻 About Me
 - Full Stack Developer (MERN) | Competitive Programmer  
@@ -46,7 +46,7 @@
 <tr>
 <td>
 <p align="center">
-<img width="200px" src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,dotnet,androidstudio&perline=3" />
+<img width="200px" src="https://skillicons.dev/icons?i=react,express,node,mongodb,dotnet,androidstudio&perline=3" />
 </p>
 </td>
 <!--   dlf -->
