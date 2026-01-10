@@ -19,8 +19,10 @@
 ---
 
 ### 🎓 Education
-- **B.E. in Computer Engineering**, M.P.N.M.J Engineering College, Erode (2017–2021)  
-  CGPA: 8.7 / 10  
+- **B.E - Computer Science Engineering**,
+- M.P.N.M.J Engineering College, Erode
+- Batch: 2017 – 2021
+- CGPA: 8.7 / 10  
 
 ---
 
@@ -67,8 +69,6 @@
 
 ### ⭐ GitHub Stats
 <div align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejas-Santosh-Nalawade&theme=radical"/>
-  <br/>
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tejas-Santosh-Nalawade&theme=radical"/>
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tejas-Santosh-Nalawade&theme=radical"/>
   <br/>
