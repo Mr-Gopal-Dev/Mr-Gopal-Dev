@@ -38,7 +38,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs</h2> 
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=cpp,cs,java,js,ts,html,css,react,node,mysql,tailwind&perline=10"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=cpp,cs,java,js,ts,html,css,react,mysql,tailwind&perline=10"  />
 </p>
 
 <h2 align="center">Tools & Technology</h2> 
@@ -46,7 +46,7 @@
 <tr>
 <td>
 <p align="center">
-<img width="200px" src="https://skillicons.dev/icons?i=react,express,dotnet,androidstudio&perline=3" />
+<img width="200px" src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,dotnet,androidstudio&perline=3" />
 </p>
 </td>
 <!--   dlf -->
