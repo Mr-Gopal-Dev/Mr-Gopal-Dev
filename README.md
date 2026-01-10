@@ -3,7 +3,7 @@
 <!--  -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full+Stack+Developer +%7C+Competitive+Programmer;AI+%2F+ML+%7C+Cloud+%7C+DevOps;Tech+Meetups+%26+Conferences; Active+Learner/Researcher"; />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full+Stack+Developer+%7C+Competitive+Programmer;AI+%2F+ML+%7C+Cloud+%7C+DevOps;Tech+Meetups+%26+Conferences"/>
 </p>
 
 <img align="right" alt="Tejas Coding" width="350px" src="./illustration.png" />
@@ -32,7 +32,6 @@
   <a href="https://www.hackerrank.com/gopal_thecoder"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/></a>&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/profile/gopalsamy1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40"/></a>
 </p>
----
 
 <br />
 
@@ -65,6 +64,17 @@
 </tr>
 </table>
 <br />
+
+### ⭐ GitHub Stats
+<div align="center">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejas-Santosh-Nalawade&theme=radical"/>
+  <br/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tejas-Santosh-Nalawade&theme=radical"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tejas-Santosh-Nalawade&theme=radical"/>
+  <br/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tejas-Santosh-Nalawade&theme=radical"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tejas-Santosh-Nalawade&theme=radical&utcOffset=8"/>
+</div>
 
 <!--Contribution Graph-->
 ### 🐍 GitHub Contribution Snake
