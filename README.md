@@ -67,15 +67,6 @@
 </table>
 <br />
 
-### ⭐ GitHub Stats
-<div align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tejas-Santosh-Nalawade&theme=radical"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tejas-Santosh-Nalawade&theme=radical"/>
-  <br/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tejas-Santosh-Nalawade&theme=radical"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tejas-Santosh-Nalawade&theme=radical&utcOffset=8"/>
-</div>
-
 <!--Contribution Graph-->
 ### 🐍 GitHub Contribution Snake
 <p align="center">
