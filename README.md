@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full+Stack+Developer+%7C+Competitive+Programmer;AI+%2F+ML+%7C+Cloud+%7C+DevOps;Tech+Meetups+%26+Conferences"/>
 </p>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThvZXJzZXRpbWk5cHV0b3ZrZ2Y2YXhvaDE1dDdhYTJkeHI1NzhhcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="programming gif" width="450px">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThvZXJzZXRpbWk5cHV0b3ZrZ2Y2YXhvaDE1dDdhYTJkeHI1NzhhcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="programming gif" width="300px">
 
 <!-- <img align="right" alt="Gopal Samy" width="350px" src="./illustration.png" /> -->
 
