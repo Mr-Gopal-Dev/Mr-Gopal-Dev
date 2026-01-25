@@ -1,4 +1,4 @@
-<!--Banner 25/01/26 - 02 -->
+<!--Banner 25/01/26 - 03 -->
 <h1 align="center"><b>GOPALSAMY — SOFTWARE ENGINEER 👨‍💻</b>
 <!--  -->
 
