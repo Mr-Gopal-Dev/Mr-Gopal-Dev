@@ -15,8 +15,8 @@
 - Full Stack Developer (MERN) | Competitive Programmer  
 - AI, Cloud, and DevOps Enthusiast  
 - Built impactful platforms like an AI-powered placement assistant and registration portals  
-- 6500+ DSA Problems Solved (1700+ on LeetCode, 1400+ on CodeChef, 1600+ on CodeForce, 1500+ GeeksforGeeks)
-- LeetCode Max Rating: 2241, CodeChef Max Rating: 2628, Coding Ninja Max Rating: 2750, Code Force Max Rating: 1400
+- 7500+ DSA Problems Solved (1700+ on LeetCode, 1500+ on CodeChef, 1650+ on CodeForce, 1800+ GeeksforGeeks)
+- LeetCode Max Rating: 2825, CodeChef Max Rating: 2642, Coding Ninja Max Rating: 2870, Code Force Max Rating: 2670, Atcoder Rating: 2394
 - Mentored 50+ students in 10+ tech workshops (Web Dev, Git, DSA, Cloud). 
 
 ---
