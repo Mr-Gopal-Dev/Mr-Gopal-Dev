@@ -16,7 +16,7 @@
 - AI, Cloud, and DevOps Enthusiast  
 - Built impactful platforms like an AI-powered placement assistant and registration portals  
 - 7500+ DSA Problems Solved (1700+ on LeetCode, 1500+ on CodeChef, 1650+ on CodeForce, 1800+ GeeksforGeeks)
-- LeetCode Max Rating: 2825, CodeChef Max Rating: 2642, Coding Ninja Max Rating: 2870, Code Force Max Rating: 2670, Atcoder Rating: 2394
+- LeetCode Rating: 2825, CodeChef Rating: 2642, Coding Ninja Rating: 2870, Code Force Rating: 2670, Atcoder Rating: 2394
 - Mentored 50+ students in 10+ tech workshops (Web Dev, Git, DSA, Cloud). 
 
 ---
