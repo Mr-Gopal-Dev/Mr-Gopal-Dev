@@ -72,9 +72,15 @@
 
 <!--Contribution Graph-->
 ### 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://github.com/Tejas-Santosh-Nalawade/Tejas-Santosh-Nalawade/blob/output/github-snake-dark.svg"/>
-</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Mr-Gopal-Dev/Mr-Gopal-Dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Mr-Gopal-Dev/Mr-Gopal-Dev/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Mr-Gopal-Dev/Mr-Gopal-Dev/output/github-snake.svg" />
+</picture>
 
 ---
 
